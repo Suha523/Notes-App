@@ -1,0 +1,33 @@
+@font-face {
+    font-family: dance;
+    src: url(../fonts/IndieFlower-Regular.ttf);
+}
+
+.bg-yellow{
+    background-color: rgb(201, 228, 53);
+}
+
+.btn-yellow{
+    background-color: rgb(201, 228, 53);
+}
+
+.h-60{
+    height: 400px;
+}
+
+.rotate {
+    transform: rotate(-2deg);
+}
+
+.my-font{
+    font-family: dance;
+    font-size: 20px;
+}
+
+.h1-size{
+    font-size: 40px;
+}
+
+.h2-size{
+    font-size: 25px;
+}
